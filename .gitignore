@@ -1,0 +1,101 @@
+# =====================
+# 操作系统生成的文件
+# =====================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+
+# =====================
+# IDE / 编辑器
+# =====================
+# VS Code
+.vscode/
+
+# JetBrains (IntelliJ, WebStorm, PyCharm 等)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Vim / Neovim
+*.swp
+*.swo
+.netrwhist
+
+# =====================
+# 语言 / 框架
+# =====================
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+
+# Java
+*.class
+*.jar
+*.war
+target/
+
+# Go
+*.exe
+*.test
+*.out
+
+# =====================
+# 环境 / 敏感信息
+# =====================
+.env
+.env.*
+*.pem
+*.key
+
+# =====================
+# 编译 / 构建产物
+# =====================
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.log
+*.tmp
+*.bak
+*.cache
+
+# =====================
+# 钥匙/密码/Token（防止意外提交）
+# =====================
+*.p12
+*.pfx
+*.jks
+credentials.json
